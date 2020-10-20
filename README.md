@@ -1,2 +1,2 @@
-# Introcution-CS
+# Introdution-CS
 Introduction to Computer Science HarvardX
